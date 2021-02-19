@@ -25,10 +25,14 @@
         <p>Art, literature and theater are of no importance today. They do not make us worse or better.</p>
         <h3>Future plans</h3>
         <p>The contemporary artist has become a professional. And in this sense, he is no different from a baker or a shoemaker.</p>
-      s
+        <ul>
+            <li>Must be strong and smart</li>
+            <li>Must be rich and play witcher 3</li>
+            <li>Prepare to battle in defends of the anсient.</li>
+        </ul>
         <p>The contemporary artist has become a professional.</p>
         <ol>
-            <li>Must be strong and smart</li>
+            <li>Must be strong and smart and handsome</li>
             <li>Must be rich and play witcher 3</li>
             <li>Prepare to battle in defends of the anсient.</li>
         </ol>
