@@ -24,7 +24,7 @@
                     <label for="lastName" class="form-label text-white">Last name</label>
                     <input type="text" class="form-control" id="lastName" placeholder="" value="" required="">
                     <div class="invalid-feedback">
-                        Valid last name is required.
+                        Valid last name is requiredfi.
                     </div>
                 </div>
 

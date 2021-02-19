@@ -5,7 +5,7 @@
     <div class="p-4 p-md-5 mb-4 text-white">
         <div class="col-md-6 px-0">
             <h1 class="display-4 ">Here I am writing a blog about what places I have visited</h1>
-            <p class="lead my-3">My name is Rashid Bukanov, and I made this blog for lab number 3. Next, I will show you some photos.</p>
+            <p class="lead my-3">My name is Rashid Bukanov, and I made this blog for lab number 3. Next I will show you some photos.</p>
         </div>
     </div>
     <div class="album py-5 bg-black">

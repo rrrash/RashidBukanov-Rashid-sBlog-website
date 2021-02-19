@@ -19,17 +19,13 @@
         </blockquote>
         <p>Trying to connect the dots, don't know what to tell my boss. Before you met me I was alright but things were kinda heavy. You just gotta ignite the light and let it shine. Glitter all over the room <em>pink flamingos</em> in the pool. </p>
         <h2>Childhood</h2>
-        <p>The modern artist is essentially a simulator. Its task is to expand the simulative space of culture.</p>
+        <p>The modern artist is essentially a simulator. Its task is to expand the simulaativer space of culture.</p>
         <h3>Present days</h3>
         <p>Without a doubt, the role of the artist in the composition of social institutions is exaggerated.</p>
         <p>Art, literature and theater are of no importance today. They do not make us worse or better.</p>
         <h3>Future plans</h3>
         <p>The contemporary artist has become a professional. And in this sense, he is no different from a baker or a shoemaker.</p>
-        <ul>
-            <li>Must be strong and smart</li>
-            <li>Must be rich and play witcher 3</li>
-            <li>Prepare to battle in defends of the anсient.</li>
-        </ul>
+      s
         <p>The contemporary artist has become a professional.</p>
         <ol>
             <li>Must be strong and smart</li>
