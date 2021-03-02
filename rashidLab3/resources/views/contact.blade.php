@@ -2,6 +2,17 @@
 @extends('layout')
 @section('title')Contact Page @endsection
 @section('main_content')
+    <!-- валидация ошибки -->
+    @if($errors->any())
+        <div class="alert alert-danger">
+            <ul>
+            @foreach($errors->all() as $error)
+                <li>{{$error}}</li>   <!-- перебираем ошибки и выводим-->
+                @endforeach
+            </ul>
+        </div>
+        @endif
+
     <div class="p-4 p-md-5 mb-4 text-white">
         <div class="col-md-6 px-0">
             <h1 class="display-4 ">This is Contact Page</h1>
