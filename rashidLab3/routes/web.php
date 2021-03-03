@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use Illuminate\Support\Facades\DB;
+use App\Models\Contact;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -26,3 +27,15 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('contacts/add',function (){
+    DB::table('contact')->insert([
+       'FirstName'=>'Rashid',
+       'LastName'=>'Bukanov',
+        'Email'=>'190103277@stu.sdu.edu.kz',
+        'Message'=>'18'
+    ]);
+});
+Route::get('contacts',function (){
+  $contacts = Contact::find(1);
+  return $contacts->Email;
+});
