@@ -39,3 +39,5 @@ Route::get('contacts',function (){
   $contacts = Contact::find(1);
   return $contacts->Email;
 });
+
+Route::get('contacts',[Controller::class,'index']);
