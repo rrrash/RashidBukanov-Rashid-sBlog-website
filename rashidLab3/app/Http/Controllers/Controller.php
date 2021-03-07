@@ -10,4 +10,11 @@ use Illuminate\Routing\Controller as BaseController;
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+       public function index(){
+        $clients=Contact::all();
+
+        return view('conct.index')->with(['clients'=>$clients]);
+
+    }
+
 }
